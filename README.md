@@ -29,3 +29,5 @@ Script to find particular "file type" and optional to fin particular words from 
 ### how to run file ? ###
 
 --In terminal  -- sh Cronjob.sh
+
+Schedule the cronjob and mail alert using user defined input at run time
