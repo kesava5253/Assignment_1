@@ -1,0 +1,11 @@
+#Listfile.sh#
+
+
+>UNDERSTANDING OF REQUIREMENT:4  //all files in system are not listed
+>NAMING CONVENTION/INTENDATION/COMMENTS :3  //remote machine is not mentioned in program name,comments missing,no proper intendation
+>CODING:2 //fixed arguments are missing,no default case added,no automation,code repetition of ssh command,ipaddress is accepted but not mentioned,while input is 3      arguments 2nd one is not considered,problem with fixed path 
+>USECASE COVERAGE:4 //program is not restricted to listing
+>FUTURE SCOPE:4 //restricted to single host
+
+
+
