@@ -1,13 +1,13 @@
-#Listfile.sh#
+#Listfile.sh
 
 
 >UNDERSTANDING OF REQUIREMENT:3
 1. all files in system are not listed
 2. fixed arguments are missing
 3. no default case added
-4.no automation
+4. no automation
 
->NAMING CONVENTION/INTENDATION/COMMENTS :3  
+>NAMING CONVENTION/INTENDATION/COMMENTS :3 
 1. remote machine is not mentioned in program name
 2. comments missing
 3. no proper intendation
@@ -38,6 +38,7 @@
 3. Comments are not to complete extent 
 
 >CODING:4
+
 1. code Repetition
 
 >USECASE COVERAGE:3
@@ -57,7 +58,7 @@
 >NAMING CONVENTION/INTENDATION/COMMENTS :3
 
 1. file name not properly named,missing about 'file type search'
-2. Intendation is not proper
+2. no proper Intendation 
 3. missing comments
 
 >CODING:4
@@ -72,20 +73,26 @@
 
 #Cronjob.sh
 
->UNDERSTANDING OF REQUIREMENT:
+>UNDERSTANDING OF REQUIREMENT:3
 
 1. entering hourly/daily/weekly/monthly/yearly is enough as input for schedule
 2. fixed arguments are missing
 
->NAMING CONVENTION/INTENDATION/COMMENTS  :
+>NAMING CONVENTION/INTENDATION/COMMENTS  :2
 1. no proper intendation
 2. file is not properly named
 3. No comments added
 
->CODING:
+>CODING:2
 
-1. Usage is not properly mentioned for repetative schedule
+1. Usage is not mentioned for repetative schedule and for argument 
+2. 2nd 3rd arguments doesnot exist
+3. coding incomplete,missing else part 
+4. didnt receive mail
+5. 'diskusage' variable is no where used 
+ 
+>USECASE COVERAGE:4
 
->USECASE COVERAGE:
+1. No validation for inputs(threshold/schedule/mail)
 
->FUTURE SCOPE
+>FUTURE SCOPE:4
